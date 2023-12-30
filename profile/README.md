@@ -12,8 +12,8 @@ Some of the features:
 - AI is an assistant when working with the editor.
 - An automatic link with the GitHub/GitLab repository will be provided for developers. It will export the documentation you created in .md format in the structure you created.
 - The ability to conduct several workspaces and several projects within the framework of the workspace
-- ... and much more sweet perks 😋
+- and much more sweet perks 😋
 
 We aim to make it easier for people to write documentation and notes, to allow them to share their ideas directly in the application and add them using AI.
 
-Find our more in pinned repositories 👇
+<!-- Find our more in pinned repositories 👇 -->
